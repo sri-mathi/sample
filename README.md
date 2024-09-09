@@ -2,8 +2,6 @@
 
 SkyScanner is a web-based climate utility designed to provide users with actual-time weather statistics, forecasts, and information updates. The utility offers a user-friendly interface for searching climate info by using location, which uses both guide input and the person's modern place. moreover, the utility capabilities of a blog and climate news phase to keep users informed approximately the trendy weather-associated traits.
 
-## venture shape
-
 ### files and Folders
 
 - **index.html**: the primary page of the utility where customers can search for weather data.
