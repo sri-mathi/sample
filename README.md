@@ -6,8 +6,8 @@ SkyScanner is a web-based climate utility designed to provide users with actual-
 
 - **index.html**: the primary page of the utility where customers can search for weather data.
 - **news.html**: A dedicated web page for displaying the today's climate information, along with motion pictures and articles.
-- **weblog.html**: The weather weblog page in which customers can study articles and guidelines associated with climate and climate.
-- **fashion.css**: the principle stylesheet that offers styling throughout all pages in the utility.
+- **blog.html**: The weather weblog page in which customers can study articles and guidelines associated with climate and climate.
+- **style.css**: the principle stylesheet that offers styling throughout all pages in the utility.
 - **script.js**: incorporates all the JavaScript functionality for managing climate facts, user interactions, and API requests.
 - **news.js**: consists of the JavaScript capability specific to the weather news web page, including carousel manipulate for information films.
 
@@ -38,7 +38,7 @@ SkyScanner is a web-based climate utility designed to provide users with actual-
    - Navigate to the news page (`information.html`) by means of clicking on the "weather news" button from the home page.
    - Browse via the modern-day news articles and watch videos in the carousel.
 
-three. **weather weblog**:
+3. **weather weblog**:
    - Navigate to the blog page (`blog.html`) to study articles associated with weather and climate.
    - The blog covers various topics, from safety tips to environmental discussions.
 
